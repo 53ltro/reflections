@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repository will create a new git repository that allows you to access a new or existing project so that you can make changes or edits to the private or public project.
+git init will create a .git folder in your directory with all it's meta-data that will start recording any commits made to the project / files.
+you need this so you can track and review any chnages or commits made by you or any author if the project is public.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers? 
+
+the staging area means thats you put the file in here before you made a commit. working directory is where your main files are at. the repository is made when you clone or download the files to your computer and creates documentation or metadata with that folder that can track the history of those files and chnages made between them. repositories can have multiple collaborators and can be public or private.
