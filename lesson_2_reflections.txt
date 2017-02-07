@@ -20,3 +20,8 @@ How do the diagrams help you visualize the branch structure?
 
 Diagrams give you a better visualization of how your branches and commits can be viewed. This helps out espcially when trying to see what commits you can reach. Depending on what branch your on.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the reason we merge two branches together is because when more than one person is working on a project. And they both have made changes that they wanted to introduce into the master branch then both can do so by merging the files they have.
+Or if you have an eperimental branch that you have now made final changes that you want to introduce into your main project you can do so by merging both together.
+Represeting it in the diagram we do is beacuse it shows what commits and branches are reachable and which aren't.
