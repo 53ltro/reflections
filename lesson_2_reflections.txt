@@ -7,3 +7,16 @@ you need this so you can track and review any chnages or commits made by you or 
 How is the staging area different from the working directory and the repository? What value do you think it offers? 
 
 the staging area means thats you put the file in here before you made a commit. working directory is where your main files are at. the repository is made when you clone or download the files to your computer and creates documentation or metadata with that folder that can track the history of those files and chnages made between them. repositories can have multiple collaborators and can be public or private.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can use the staging area to add one commit to it each time you make a change to your file. using the command git add and the file name to the staging area. use git commit to open the file in your text editor of choice. save your commit. Do the same for your other file that you would like to commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would help if you needed to make changes or madicifications that will not effect the whole project. But rather create a new project under a new name with your changes that you can go back and forth from the original when needed.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams give you a better visualization of how your branches and commits can be viewed. This helps out espcially when trying to see what commits you can reach. Depending on what branch your on.
+
