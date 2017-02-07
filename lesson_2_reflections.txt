@@ -25,3 +25,7 @@ What is the result of merging two branches together? Why do we represent it in t
 the reason we merge two branches together is because when more than one person is working on a project. And they both have made changes that they wanted to introduce into the master branch then both can do so by merging the files they have.
 Or if you have an eperimental branch that you have now made final changes that you want to introduce into your main project you can do so by merging both together.
 Represeting it in the diagram we do is beacuse it shows what commits and branches are reachable and which aren't.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging is great and quick when you know no errors or conflicts will occur or take time cleaning up. manually merging will take time but you'll be abe to see your mistakes or conflicts and work them out one by one.
