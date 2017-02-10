@@ -16,3 +16,6 @@ A clone is a copy of a repository saved to your computer and not on a website se
 
 A branch is another version of your project that still lves in your repository that alows you to work more freely and explore other options of your project. you can possibly have an experimental branch that you later would like to merge onto your master brach if you are happy with your chnages. and these branches will not affect the original project.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+the benefit of having a copy of the last state of the remote repository stored on your local repository is when your going to work offline for a bit and will allow you to see what chnages have been made since you last checked. Also when there are more than one person working on a project and both of you have made changes that need to be updated locally and remotely. Once you figure out the exact changes you need to make you can run a git merge or fetch command that would merge both files together. and if you have any conflicting files you can go ahead and fix those conficting files and save your file and commit it later and push your updated commits to your remote repository. another reason would be when you want to possibly revert back to a certain part of the file.
