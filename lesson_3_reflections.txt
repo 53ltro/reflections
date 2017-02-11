@@ -24,3 +24,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 You can always collaberate using email, dropbox or the tools that google can offer. it would be easier the fact that lots of people already have working knowledge of how those other version control systems work. It would be hard working this way espcially when working with code or projects that require programing or coding.
 Since most of these known version control systems don't support or cater to those specific types of projects or usage. Git and GitHub offer so many tools that can help you and your team out when collaberating on specific projects.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to make changes in a seperate branch when collaberating with others. It's a great option to run your changes by the other people who are also working on the same project. They may find some typo's or other things you might have overlooked. Or if you decide that you want your new branch to be an experiment branch that you are not confident with the chnages yet and would like others to view it and give you feedback before merging any files together. Directly updating your project has it's own benefit's for example when you want to have the most up to date commits on your local and remote repository.
